@@ -2,39 +2,45 @@
   {
     "id": 1,
     "name": "Frieren",
-    "description": "🌟La serena y poderosa maga elfa, viaja a través del tiempo y los recuerdos dominando antiguos hechizos y una magia tan vasta como su larga vida🌟, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "🌟La serena y poderosa maga elfa, viaja a través del tiempo y los recuerdos dominando antiguos hechizos y una magia tan vasta como su larga vida🌟",
     "images": [
       { "id": 1, "name": "assets/frieren/Frieren.jpg" },
       { "id": 2, "name": "assets/frieren/Frieren2.jpg" },
       { "id": 3, "name": "assets/frieren/Frieren3.jpg" },
       { "id": 4, "name": "assets/frieren/Frieren4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
+    "size": "9cm de alto",
     "price": "35.000",
     "new": true
   },
   {
     "id": 2,
     "name": "Fern",
-    "description": "💫La tranquila y disciplinada aprendiz de maga, combate con precisión impecable y un talento mágico que crece con cada aventura💫, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "description": "💫La tranquila y disciplinada aprendiz de maga, combate con precisión impecable y un talento mágico que crece con cada aventura💫",
     "images": [
       { "id": 1, "name": "assets/frieren/Fern.jpg" },
       { "id": 2, "name": "assets/frieren/Fern2.jpg" },
       { "id": 3, "name": "assets/frieren/Fern3.jpg" },
       { "id": 4, "name": "assets/frieren/Fern4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "size": "9cm de alto",
     "price": "35.000",
     "new": true
   },
   {
     "id": 3,
     "name": "Stark",
-    "description": "🪓El fuerte pero sensible guerrero, protege a sus compañeros con su gran fuerza física y un corazón más valiente de lo que él mismo cree🪓, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "🪓El fuerte pero sensible guerrero, protege a sus compañeros con su gran fuerza física y un corazón más valiente de lo que él mismo cree🪓",
     "images": [
       { "id": 1, "name": "assets/frieren/Stark.jpg" },
       { "id": 2, "name": "assets/frieren/Stark2.jpg" },
       { "id": 3, "name": "assets/frieren/Stark3.jpg" },
       { "id": 4, "name": "assets/frieren/Stark4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
+    "size": "11,5cm de alto",
     "price": "35.000",
     "new": true
   }

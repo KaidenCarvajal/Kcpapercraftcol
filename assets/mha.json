@@ -2,11 +2,13 @@
   {
     "id": 1,
     "name": "Izuku Midoriya",
-    "description": "El decidido y noble héroe en formación, te inspirará con su poderoso One For All y su incansable voluntad de salvar a todos!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El decidido y noble héroe en formación, te inspirará con su poderoso One For All y su incansable voluntad de salvar a todos!!!",
     "images": [
       { "id": 1, "name": "assets/mha/Izuku.jpg" },
       { "id": 2, "name": "assets/mha/Izuku2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -14,11 +16,13 @@
   {
     "id": 2,
     "name": "Ochaco Uraraka",
-    "description": "La alegre y valiente aspirante a heroína, usará su Gravedad Cero para flotar hacia la victoria y proteger a quienes ama!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "La alegre y valiente aspirante a heroína, usará su Gravedad Cero para flotar hacia la victoria y proteger a quienes ama!!!",
     "images": [
       { "id": 1, "name": "assets/mha/Ochaco.jpg" },
       { "id": 2, "name": "assets/mha/Ochaco2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -26,11 +30,13 @@
   {
     "id": 3,
     "name": "Katsuki Bakugo",
-    "description": "El explosivo y feroz aspirante a héroe, arrasará con todo a su paso usando su poderoso Don de explosiones y su inquebrantable determinación de ser el mejor!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El explosivo y feroz aspirante a héroe, arrasará con todo a su paso usando su poderoso Don de explosiones y su inquebrantable determinación de ser el mejor!!!",
     "images": [
       { "id": 1, "name": "assets/mha/Bakugo.jpg" },
       { "id": 2, "name": "assets/mha/Bakugo2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -38,11 +44,13 @@
   {
     "id": 4,
     "name": "Shoto Todoroki",
-    "description": "El frío y calculador prodigio, dominará el campo de batalla con el poder combinado del hielo y el fuego, equilibrando fuerza y estrategia.!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El frío y calculador prodigio, dominará el campo de batalla con el poder combinado del hielo y el fuego, equilibrando fuerza y estrategia.!!!",
     "images": [
       { "id": 1, "name": "assets/mha/Shoto.jpg" },
       { "id": 2, "name": "assets/mha/Shoto2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false

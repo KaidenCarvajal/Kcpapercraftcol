@@ -2,13 +2,15 @@
   {
     "id": 1,
     "name": "Gundam Aerial XVX-016",
-    "description": "El elegante y adaptable Gundam Aerial que pilota Suletta Mercury, una maravilla tecnológica de Gundam: The Witch from Mercury!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 12 cm esta figura es hecha bajo pedido que puede demorar de 4 a 6 días, el envio no esta incluido en el precio.",
+    "description": "El elegante y adaptable Gundam Aerial que pilota Suletta Mercury, una maravilla tecnológica de Gundam: The Witch from Mercury!!!",
     "images": [
       { "id": 1, "name": "assets/gundam/Aerial.jpg" },
       { "id": 2, "name": "assets/gundam/Aerial2.jpg" },
       { "id": 3, "name": "assets/gundam/Aerial3.jpg" },
       { "id": 4, "name": "assets/gundam/Aerial4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 4 a 6 días, el envio no esta incluido en el precio.",
+    "size":"12cm de alto",
     "price": "70.000",
     "oldPrice": "80.000",
     "new": false
@@ -16,13 +18,15 @@
   {
     "id": 2,
     "name": "Nu Gundam RX-93",
-    "description": "La legendaria arma de Amuro Ray en Chars Counterattack, diseñada para Newtypes. Este Gundam destaca por su equilibrio entre rendimiento, confiabilidad y adaptabilidad!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 17 cm, esta figura es hecha bajo pedido que puede demorar de 10 a 14 días, el envio no esta incluido en el precio.",
+    "description": "La legendaria arma de Amuro Ray en Chars Counterattack, diseñada para Newtypes. Este Gundam destaca por su equilibrio entre rendimiento, confiabilidad y adaptabilidad!!!",
     "images": [
       { "id": 1, "name": "assets/gundam/Nu.jpg" },
       { "id": 2, "name": "assets/gundam/Nu2.jpg" },
       { "id": 3, "name": "assets/gundam/Nu3.jpg" },
       { "id": 4, "name": "assets/gundam/Nu4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 10 a 14 días, el envio no esta incluido en el precio.",
+    "size":"17cm de alto",
     "price": "110.000",
     "oldPrice": "130.000",
     "new": false
@@ -30,13 +34,15 @@
   {
     "id": 3,
     "name": "Gundam STTS-909 Rising Freedom",
-    "description": "Un prototipo transformable de vanguardia presentado en Mobile Suit Gundam SEED Freedom!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 18 cm, esta figura es hecha bajo pedido que puede demorar de 11 a 16 días, el envio no esta incluido en el precio.",
+    "description": "Un prototipo transformable de vanguardia presentado en Mobile Suit Gundam SEED Freedom!!!",
     "images": [
       { "id": 1, "name": "assets/gundam/STTS.jpg" },
       { "id": 2, "name": "assets/gundam/STTS2.jpg" },
       { "id": 3, "name": "assets/gundam/STTS3.jpg" },
       { "id": 4, "name": "assets/gundam/STTS4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 11 a 16 días, el envio no esta incluido en el precio.",
+    "size":"18cm de alto",
     "price": "115.000",
     "oldPrice": "130.000",
     "new": false
@@ -44,7 +50,7 @@
   {
     "id": 4,
     "name": "MSZ-006 Zeta Gundam",
-    "description": "El elegante y revolucionario Gundam transformable, dominará el combate con su increíble velocidad y su capacidad de cambiar a modo Wave Rider para ataques aéreos devastadores. Armado con su potente Beam Rifle, Beam Sabers y tecnología de nueva generación, es un símbolo de poder, precisión y evolución en el campo de batalla.!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 35 cm!, esta figura es hecha bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
+    "description": "🌟El elegante y revolucionario Gundam transformable, dominará el combate con su increíble velocidad y su capacidad de cambiar a modo Wave Rider para ataques aéreos devastadores🌟 Armado con su potente Beam Rifle, Beam Sabers y tecnología de nueva generación, es un símbolo de poder, precisión y evolución en el campo de batalla!!!",
     "images": [
       { "id": 1, "name": "assets/gundam/MSZ.jpg" },
       { "id": 2, "name": "assets/gundam/MSZ2.jpg" },
@@ -55,6 +61,8 @@
       { "id": 7, "name": "assets/gundam/MSZ7.jpg" },
       { "id": 8, "name": "assets/gundam/MSZ8.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
+    "size":"35cm de alto",
     "price": "420.000",
     "new": true
   }

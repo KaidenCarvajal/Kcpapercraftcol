@@ -2,11 +2,13 @@
   {
     "id": 1,
     "name": "Tanjiro Kamado",
-    "description": "Nuestro valiente protagonista Tanjiro Kamado, te acompañara con su respiración del agua y respiración solar!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente protagonista Tanjiro Kamado, te acompañara con su respiración del agua y respiración solar!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Tanjiro.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Tanjiro2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size": "8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -14,11 +16,13 @@
   {
     "id": 2,
     "name": "Nezuko Kamado",
-    "description": "Nuestra bella y hermosa Nezuko!!!, Jefe Inoseque!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestra bella y hermosa Nezuko!!!, Jefe Inoseque!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Nezuko.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Nezuko2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -26,11 +30,13 @@
   {
     "id": 3,
     "name": "Zenitsu Agatsuma",
-    "description": "Nuestro valiente y llorón Zenitzu, te acompañara con su respiracion del trueno!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente y llorón Zenitzu, te acompañara con su respiracion del trueno!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Zenitsu.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Zenitsu2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -38,11 +44,13 @@
   {
     "id": 4,
     "name": "Inosuke Hashibira con cabello + mascara",
-    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!, la bestia quiere incarte el colmillo!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!, la bestia quiere incarte el colmillo!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Inosuke.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Inosuke2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"10cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -50,11 +58,13 @@
   {
     "id": 5,
     "name": "Inosuke Hashibira con mascara",
-    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!, la bestia quiere incarte el colmillo!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/InosukeM.jpg" },
       { "id": 2, "name": "assets/demonSlayer/InosukeM2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -62,11 +72,13 @@
   {
     "id": 6,
     "name": "Kanao Tsuyuri",
-    "description": "La silenciosa y observadora espadachina, te cuidará con la delicada y precisa respiración de la flor!!!,  ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "La silenciosa y observadora espadachina, te cuidará con la delicada y precisa respiración de la flor!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Kanao.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Kanao2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -74,11 +86,13 @@
   {
     "id": 7,
     "name": "Giyu Tomioka",
-    "description": "El silencioso y sereno Pilar del Agua, te protegerá con su impecable respiración del agua!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El silencioso y sereno Pilar del Agua, te protegerá con su impecable respiración del agua!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Giyu.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Giyu2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -86,11 +100,13 @@
   {
     "id": 8,
     "name": "Shinobu Kocho",
-    "description": "La amable pero letal Pilar del Insecto, luchará por ti con su elegante respiración del insecto!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "La amable pero letal Pilar del Insecto, luchará por ti con su elegante respiración del insecto!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Shinobu.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Shinobu2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -98,11 +114,13 @@
   {
     "id": 9,
     "name": "Kyojuro Rengoku",
-    "description": "El apasionado y carismático Pilar de la Llama, te inspirará con su ardiente respiración de la llama!!!, ¡¡¡SABROSO!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El apasionado y carismático Pilar de la Llama, te inspirará con su ardiente respiración de la llama!!!, ¡¡¡SABROSO!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Rengoku.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Rengoku2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -110,11 +128,13 @@
   {
     "id": 10,
     "name": "Tengen Uzui",
-    "description": "El extravagante y ruidoso Pilar del Sonido, combatirá con estilo usando su estruendosa respiración del sonido!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El extravagante y ruidoso Pilar del Sonido, combatirá con estilo usando su estruendosa respiración del sonido!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Tengen.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Tengen2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -122,11 +142,13 @@
   {
     "id": 11,
     "name": "Mitsuri Kanroji",
-    "description": " La dulce y poderosa Pilar del Amor, te defenderá con la ágil respiración del amor!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": " La dulce y poderosa Pilar del Amor, te defenderá con la ágil respiración del amor!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Mitsuri.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Mitsuri2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -134,11 +156,13 @@
   {
     "id": 12,
     "name": "Muichiro Tokito",
-    "description": "El joven y prodigioso Pilar de la Niebla, confundirá a sus enemigos con su etérea respiración de la niebla!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El joven y prodigioso Pilar de la Niebla, confundirá a sus enemigos con su etérea respiración de la niebla!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Tokito.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Tokito2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -146,11 +170,13 @@
   {
     "id": 13,
     "name": "Gyomei Himejima",
-    "description": "El compasivo y formidable Pilar de la Roca, te protegerá con su inquebrantable respiración de la roca!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El compasivo y formidable Pilar de la Roca, te protegerá con su inquebrantable respiración de la roca!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Himejima.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Himejima2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -158,11 +184,13 @@
   {
     "id": 14,
     "name": "Obanai Iguro",
-    "description": "El misterioso y leal Pilar de la Serpiente, atacará con precisión usando su serpenteante respiración de la serpiente!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El misterioso y leal Pilar de la Serpiente, atacará con precisión usando su serpenteante respiración de la serpiente!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Iguro.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Iguro2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -170,11 +198,13 @@
   {
     "id": 15,
     "name": "Sanemi Shinazugawa",
-    "description": "El feroz y temperamental Pilar del Viento, arrasará a los demonios con su furiosa respiración del viento!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El feroz y temperamental Pilar del Viento, arrasará a los demonios con su furiosa respiración del viento!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Sanemi.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Sanemi2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -182,11 +212,13 @@
   {
     "id": 16,
     "name": "Muzan Kibutsuji",
-    "description": "El despiadado rey de los demonios, dominará con su poder infinito y astucia aterradora!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El despiadado rey de los demonios, dominará con su poder infinito y astucia aterradora!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Muzan.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Muzan2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -194,11 +226,13 @@
   {
     "id": 17,
     "name": "Doma",
-    "description": "El carismático pero escalofriante demonio de la Luna Superior Dos, te enfrentará con su letal técnica de hielo y loto!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El carismático pero escalofriante demonio de la Luna Superior Dos, te enfrentará con su letal técnica de hielo y loto!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Doma.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Doma2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"9cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -206,11 +240,13 @@
   {
     "id": 18,
     "name": "Akaza",
-    "description": "Akaza El implacable y orgulloso demonio de la Luna Superior Tres, combatirá con su feroz estilo de artes marciales y destrucción total!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Akaza El implacable y orgulloso demonio de la Luna Superior Tres, combatirá con su feroz estilo de artes marciales y destrucción total!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/Akaza.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Akaza2.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"8cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -218,13 +254,15 @@
   {
     "id": 19,
     "name": "Tanjiro Pose",
-    "description": "Nuestro valiente protagonista Tanjiro Kamado, demostrando su maestria en respiración solar, con su katana en llamas y rodeado de flamas!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente protagonista Tanjiro Kamado, demostrando su maestria en respiración solar, con su katana en llamas y rodeado de flamas!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/TanjiroPose.jpg" },
       { "id": 2, "name": "assets/demonSlayer/TanjiroPose2.jpg" },
       { "id": 3, "name": "assets/demonSlayer/TanjiroPose3.jpg" },
       { "id": 4, "name": "assets/demonSlayer/TanjiroPose4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"9cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -232,13 +270,15 @@
   {
     "id": 20,
     "name": "Inosuke Pose",
-    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!, en una pose imponente con su mascara sobrepuesta y con sus dos katanas afiladas y listas para pelear, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!, en una pose imponente con su mascara sobrepuesta y con sus dos katanas afiladas y listas para pelear",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/InosukePose.jpg" },
       { "id": 2, "name": "assets/demonSlayer/InosukePose2.jpg" },
       { "id": 3, "name": "assets/demonSlayer/InosukePose3.jpg" },
       { "id": 4, "name": "assets/demonSlayer/InosukePose4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"11cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false
@@ -246,13 +286,15 @@
   {
     "id": 21,
     "name": "Rengoku Pose",
-    "description": "El apasionado y carismático Pilar de la Llama, demostrando la respiración de la llama, rodeado de imponentes flamas listo para atacar cualquier demonio que se le acerque!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El apasionado y carismático Pilar de la Llama, demostrando la respiración de la llama, rodeado de imponentes flamas listo para atacar cualquier demonio que se le acerque!!!",
     "images": [
       { "id": 1, "name": "assets/demonSlayer/RengokuPose.jpg" },
       { "id": 2, "name": "assets/demonSlayer/RengokuPose2.jpg" },
       { "id": 3, "name": "assets/demonSlayer/RengokuPose3.jpg" },
       { "id": 4, "name": "assets/demonSlayer/RengokuPose4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "size":"9cm de alto",
     "price": "30.000",
     "oldPrice": "35.000",
     "new": false

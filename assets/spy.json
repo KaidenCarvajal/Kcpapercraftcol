@@ -2,13 +2,15 @@
   {
     "id": 1,
     "name": "Anya Forger",
-    "description": "🍭La adorable y traviesa telépata, usará su habilidad de leer mentes para ayudar a su familia… aunque casi siempre termine metida en líos🍭, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "description": "🍭La adorable y traviesa telépata, usará su habilidad de leer mentes para ayudar a su familia… aunque casi siempre termine metida en líos🍭",
     "images": [
       { "id": 1, "name": "assets/spy/Anya.jpg" },
       { "id": 2, "name": "assets/spy/Anya2.jpg" },
       { "id": 3, "name": "assets/spy/Anya3.jpg" },
       { "id": 4, "name": "assets/spy/Anya4.jpg" }
     ],
+    "notes":"¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "size": "8cm de alto",
     "price": "30.000",
     "new": true
   }
