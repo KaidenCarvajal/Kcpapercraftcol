@@ -10,7 +10,7 @@
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "size": "8cm de alto",
     "price": "30.000",
-    "oldPrice": "35.000",
+    "sale": false,
     "new": false
   },
   {
@@ -24,7 +24,7 @@
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "size": "8cm de alto",
     "price": "30.000",
-    "oldPrice": "35.000",
+    "sale": false,
     "new": false
   },
   {
@@ -38,7 +38,7 @@
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "size": "8cm de alto",
     "price": "30.000",
-    "oldPrice": "35.000",
+    "sale": false,
     "new": false
   },
   {
@@ -52,7 +52,7 @@
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "size": "8cm de alto",
     "price": "30.000",
-    "oldPrice": "35.000",
+    "sale": false,
     "new": false
   }
 ]
