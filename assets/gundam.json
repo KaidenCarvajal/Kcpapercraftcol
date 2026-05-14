@@ -63,8 +63,9 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
     "size": "35cm de alto",
-    "price": "420.000",
-    "sale": false,
+    "price": "336.000",
+    "oldPrice": "420.000",
+    "sale": true,
     "new": true
   }
 ]
