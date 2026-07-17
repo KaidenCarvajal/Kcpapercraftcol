@@ -2,63 +2,63 @@
   {
     "id": 1,
     "name": "Demon Slayer",
-    "img": "assets/demonSlayer_logo.png",
+    "img": "assets/images/demonSlayer_logo.png",
     "characters": "demonSlayer",
     "new": false
   },
   {
     "id": 2,
     "name": "One Piece",
-    "img": "assets/onePiece_logo.png",
+    "img": "assets/images/onePiece_logo.png",
     "characters": "onePiece",
     "new": true
   },
   {
     "id": 3,
     "name": "My Hero Academia",
-    "img": "assets/mha_logo.png",
+    "img": "assets/images/mha_logo.png",
     "characters": "mha",
     "new": false
   },
   {
     "id": 4,
     "name": "Gundam",
-    "img": "assets/gundam_logo.png",
+    "img": "assets/images/gundam_logo.png",
     "characters": "gundam",
     "new": true
   },
   {
     "id": 5,
     "name": "Naruto Shippuden",
-    "img": "assets/naruto_logo.png",
+    "img": "assets/images/naruto_logo.png",
     "characters": "naruto",
     "new": true
   },
   {
     "id": 6,
     "name": "Frieren",
-    "img": "assets/frieren_logo.png",
+    "img": "assets/images/frieren_logo.png",
     "characters": "frieren",
     "new": true
   },
   {
     "id": 7,
     "name": "Dandadan",
-    "img": "assets/dandadan_logo.png",
+    "img": "assets/images/dandadan_logo.png",
     "characters": "dandadan",
     "new": true
   },
   {
     "id": 8,
     "name": "Spy X Family",
-    "img": "assets/spy_logo.png",
+    "img": "assets/images/spy_logo.png",
     "characters": "spy",
     "new": true
   },
   {
     "id": 9,
     "name": "Sailor Moon",
-    "img": "assets/sailor_logo.png",
+    "img": "assets/images/sailor_logo.png",
     "characters": "sailor",
     "new": true
   }
