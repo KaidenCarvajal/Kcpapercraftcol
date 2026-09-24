@@ -11,9 +11,8 @@
     ],
     "notes": "¡Modelo papercraft, impreso en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
     "size": "Este modelo tiene 40cm de alto y 38cm de largo.",
-    "oldPrice": "800.000",
-    "price": "640.000",
-    "sale": true,
+    "price": "800.000",
+    "sale": false,
     "new": false
   },
   {
@@ -28,9 +27,8 @@
     ],
     "notes": "¡Modelo papercraft, impreso en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
     "size": "Este modelo tiene 45cm de alto y 40cm de largo.",
-    "oldPrice": "900.000",
-    "price": "720.000",
-    "sale": true,
+    "price": "900.000",
+    "sale": false,
     "new": false
   },
   {
@@ -45,9 +43,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "size": "10cm de alto",
-    "oldPrice": "50.000",
-    "price": "40.000",
-    "sale": true,
+    "price": "50.000",
+    "sale": false,
     "new": false
   },
   {
@@ -62,9 +59,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "size": "12cm de alto",
-    "oldPrice": "60.000",
-    "price": "50.000",
-    "sale": true,
+    "price": "60.000",
+    "sale": false,
     "new": false
   },
   {
@@ -79,9 +75,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -96,9 +91,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "11cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": true
   },
   {
@@ -113,9 +107,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -130,14 +123,13 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": true
   },
   {
     "id": 9,
-    "name": "Ussop (Onigashima)",
+    "name": "Usopp (Onigashima)",
     "description": "🔫El valiente tirador de los Sombrero de Paja, vencerá a sus enemigos con su puntería increíble, su ingenio y sus creativas armas de francotirador🔫 En esta ocasión esta figura tiene el aspecto de Ussop visto durante la isla Onigashima.",
     "images": [
       { "id": 1, "name": "assets/onePiece/Ussop.jpg" },
@@ -147,14 +139,13 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": true
   },
   {
     "id": 10,
-    "name": "Vismoke Sanji (Onigashima)",
+    "name": "Vinsmoke Sanji (Onigashima)",
     "description": "👨‍🍳El elegante y apasionado cocinero del Baratie, luchará con su poderoso Black Leg Style mientras protege a sus amigos con caballerosidad inquebrantable👨‍🍳 En esta ocasión esta figura tiene el aspecto de Sanji visto durante la isla Onigashima.",
     "images": [
       { "id": 1, "name": "assets/onePiece/Sanji.jpg" },
@@ -164,9 +155,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": true
   },
   {
@@ -181,9 +171,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -198,9 +187,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -215,9 +203,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: Debido al tamaño de esta figura no cuenta con su caja😅",
     "size": "11cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -232,9 +219,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "11cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": true
   },
   {
@@ -249,9 +235,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: Debido al tamaño de esta figura no cuenta con su caja😅",
     "size": "11cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -266,9 +251,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   },
   {
@@ -283,9 +267,8 @@
     ],
     "notes": "¡Figura papercraft, impresa en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, este modelo es hecho bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
     "size": "10cm de alto",
-    "oldPrice": "40.000",
-    "price": "30.000",
-    "sale": true,
+    "price": "40.000",
+    "sale": false,
     "new": false
   }
 ]
